@@ -1,3 +1,3 @@
-Hi there! My name is Cameron and I'm an engineer interested in the intersection of AI, Robotics, and Distributed Systems. I'm currently at [Wayve](https://wayve.ai) on our Science team (we are [hiring](https://wayve.ai/careers/join-us/?location=Mountain%20View&department=Science)).
+ I am an engineer interested in the intersection of AI, Robotics, and Large-Scale Distributed Systems. Currently, I manage a team focused on data search and understanding at Wayve. I was previously the tech lead for foundation model development.
 
-Previously I've worked as an engineer on both robotics and infrastructure teams at [X, the moonshot factory](http://x.company), [Google](https://google.com), and [Airbnb](https://airbnb.com). I'm also an alumni of [South Park Commons](https://southparkcommons.com).
+I have worked at Alphabet (Google, Google X, Everyday Robots), Airbnb, Sherwin-Williams, and I am an alumnus of South Park Commons. I am also an angel investor and previously have advised/consulted for a number of SaaS/infrastructure startups.
