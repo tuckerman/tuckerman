@@ -1,3 +1,3 @@
- I am an engineer interested in the intersection of AI, Robotics, and Large-Scale Distributed Systems. Currently, I manage a team focused on data search and understanding at Wayve. I was previously the tech lead for foundation model development.
+Frequently dabbler, dad, coffee drinker, software engineer 🧪 👨‍👨‍👦 ☕️ 👨‍💻
 
-I have worked at Alphabet (Google, Google X, Everyday Robots), Airbnb, Sherwin-Williams, and I am an alumnus of South Park Commons where I founded General Reliability. I am also an angel investor and previously have advised/consulted for a number of SaaS/infrastructure startups.
+I have experience in designing, building, and operating large-scale, complex systems across infrastructure, AI/Robotics, and product teams in management, SWE, and SRE roles. I have worked at Wayve, Google/Google X, Airbnb, and I am an alumnus of South Park Commons. I am also an angel investor and previously have advised/consulted for a number of SaaS/infrastructure startups.
